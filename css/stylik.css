@@ -1,0 +1,96 @@
+
+#uppah{
+  height:1000px;
+  width:100%;
+
+  background-image: url("../images/tojesttto.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  /*background-size:cover;*/
+}
+  #benji{
+    width:400px;
+    height:400px;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    margin-top:200px;
+
+  }
+  #benji:hover{
+    width:600px;
+    height:600px;
+  }
+
+   #fresh{
+     display:flex;
+     justify-content: center;
+     font-size:10rem;
+     color:#fbeded;
+
+   }
+   h2{
+     display:flex;
+     justify-content: center;
+     color:#fbeded;
+
+   }
+#middah{
+  height:1000px;
+  width:100%;
+
+}
+  .col-sm-3{
+    display: flex;
+    margin-top:30px;
+    display:inline-block;
+  }
+  p{
+
+    margin:auto;
+  }
+
+  img{
+    height:200px;
+    width:200px;
+    margin:auto;
+  }
+  #mah{
+    display:flex;
+    justify-content: center;
+    font-size:5rem;
+    color:#281b7b;
+  }
+    span{
+      color: #fd5900;
+
+  }
+#down{
+  height:1000px;
+  width:100%;
+}
+
+   #finish{
+     display:flex;
+     justify-content: center;
+     font-size:10rem;
+     color:#2ae2ae;
+   }
+   img{
+     margin-left:500px;
+     height:300px;
+     width:300px;
+   }
+
+.slim{
+  height:1000px;
+  width:60%;
+  margin:auto;
+
+}
+
+#pug{
+  height:1000px;
+  width:100%;
+
+  background-image:url("../images/pug.jpg")

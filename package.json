@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "swag",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jshint": "^2.9.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-jshint": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "swag"
+  ],
+  "author": "lasto",
+  "license": "ISC"
+}

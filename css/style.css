@@ -1,0 +1,65 @@
+#uppah {
+  height: 1000px;
+  width: 100%;
+  background-image: url("../images/tojesttto.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; }
+  #uppah img {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: center; }
+  #uppah h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 10rem;
+    color: #fbeded; }
+  #uppah h2 {
+    display: flex;
+    justify-content: center;
+    color: #fbeded; }
+
+#middah {
+  height: 1000px;
+  width: 100%; }
+  #middah .col-sm-3 {
+    display: flex;
+    margin-top: 30px; }
+  #middah p {
+    margin: auto; }
+  #middah img {
+    height: 200px;
+    width: 200px;
+    margin: auto; }
+  #middah h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 5rem;
+    color: #281b7b; }
+    #middah h1 span {
+      color: #fd5900; }
+
+#down {
+  height: 1000px;
+  width: 100%; }
+  #down h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 10rem;
+    color: #2ae2ae; }
+  #down img {
+    margin-left: 500px;
+    height: 300px;
+    width: 300px; }
+
+.slim {
+  height: 1000px;
+  width: 60%;
+  margin: auto; }
+
+#pug {
+  height: 1000px;
+  width: 100%;
+  background-image: url("../images/pug.jpg"); }
